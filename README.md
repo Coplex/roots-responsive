@@ -1,4 +1,4 @@
 roots-responsive
 ================
 
-Roots.io install with db (no plugins)
+Roots.io install with db ( no plugins )
